@@ -1,0 +1,7 @@
+{
+  "name": "Visiosto’s WordPress Workflow",
+  "description": "Visiosto’s CI workflow template for WordPress projects.",
+  "iconName": "globe",
+  "categories": ["PHP"],
+  "filePatterns": ["index.php$"]
+}
